@@ -1,8 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm Penmetsa Gajendra Varma</h1>
 <h3 align="center">A Computer Science UnderGraduate</h3>
+
+- 📫 How to reach me **varmagpsspk@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/gajendra-varma-penmetsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajendra-varma-penmetsa" height="30" width="40" /></a>
+<a href="https://kaggle.com/pgvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pgvarma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
