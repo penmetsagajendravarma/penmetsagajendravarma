@@ -13,7 +13,6 @@
 <h3 align="left">My Interests 🚀</h3>
 <ul>
   <li>Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)</li>
-  <li>Software Development and Web Development</li>
   <li>Data Science and Data Analysis</li>
 </ul>
 
